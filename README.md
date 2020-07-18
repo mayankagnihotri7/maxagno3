@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**maxagno3/maxagno3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Mayank 👋
 
 Here are some ideas to get you started:
 
@@ -11,7 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ... Twitter: https://twitter.com/max_AgNO3 
-                          LinkedIn:https://www.linkedin.com/in/mayank-agnihotri-963a421a6/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                      
