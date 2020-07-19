@@ -4,6 +4,8 @@
 
 <p>I am Mayank Agnihotri 😃. I am from Navi Mumbai and currently pursuing to be an MERN stack developer @AltCampus, Dharamshala 🏫.I love to explore and learn about new things.</p>
 
+<p>Fun Fact about me: I love reading/seeing my code again on GitHub after it has been commited to the server.</p>
+
 [![Twitter Badge](https://img.shields.io/badge/-@max_AgNO3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/max_AgNO3)](https://twitter.com/max_AgNO3)
 
 <br>
