@@ -18,6 +18,7 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -28,5 +29,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxagno3&hide_langs_below=5" alt="Mayank's language stats"/>
                       
 ![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=maxagno3&hide=["issues"]&show_icons=true)
