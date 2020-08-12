@@ -2,7 +2,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<p>I am Mayank Agnihotri 😃. I am from Navi Mumbai and currently pursuing to be an MERN stack developer @AltCampus, Dharamshala 🏫.I love to explore and learn about new things.</p>
+<p>I am Mayank Agnihotri 😃. I am from Navi Mumbai and currently pursuing to be a MERN stack developer @AltCampus, Dharamshala 🏫. I love to explore and learn about new things.</p>
 
 <p>Fun Fact about me: I love reading/seeing my code again on GitHub after it has been commited to the server.</p>
 
