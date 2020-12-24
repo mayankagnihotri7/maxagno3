@@ -6,7 +6,7 @@
 
 <p>Fun Fact about me: I love reading/seeing my code again on GitHub after it has been committed to the server.</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@max_AgNO3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/max_AgNO3)](https://twitter.com/max_AgNO3)
+[![Twitter Badge](https://img.shields.io/badge/-@max_AgNO3-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/max_AgNO3)](https://twitter.com/max_AgNO3) [![LinkedIn Badge](https://img.shields.io/badge/-@mayankagnihotri-blue?style=flat-square&labelColor=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-agnihotri/)](https://www.linkedin.com/in/mayank-agnihotri/)
 
 <br>
 <br>
