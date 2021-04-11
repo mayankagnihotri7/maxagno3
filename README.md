@@ -4,6 +4,7 @@
 
 <p>I am Mayank Agnihotri. I am from Navi Mumbai and an @AltCampus alumni. I love to explore and learn about new things.</p>
 <p>Primary stack: MERN</p>
+<p>Lightining fact: Coffee over Tea</p>
 
 <p>Fun Fact about me: I love reading/seeing my code again on GitHub after it has been committed to the server.</p>
 
