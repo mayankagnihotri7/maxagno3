@@ -20,19 +20,9 @@
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
-  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<p align = "center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagnihotri7&theme=&hide_langs_below=5"  alt="Mayank's language stats"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=mayankagnihotri7&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=mayankagnihotri7&theme=dark&hide_border=true" width = 400>
 </p>
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankagnihotri7&hide_langs_below=5" alt="Mayank's language stats"/>
-                      
-![Mayank's github stats](https://github-readme-stats.vercel.app/api?username=mayankagnihotri7&hide=["issues"]&show_icons=true)
+</p>
