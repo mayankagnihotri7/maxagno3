@@ -15,8 +15,9 @@
 <br>
 <br>
 
+[![maxagno3's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maxagno3)](https://github.com/mayankagnihotri7/github-readme-stats)
+
 <p>
-  
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
